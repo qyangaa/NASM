@@ -37,7 +37,7 @@
       + Romanian dead lift: little knee flexion, more activation of hamstring, drive hips forward while standing up
   + Split stance
   + Single leg and stepping
-+  if a client refuses or is unable to perform the necessary transitional movement assessments, the Corrective Exercise Specialist can include these specific loaded movement assessments within the client’s workouts.
++ if a client refuses or is unable to perform the necessary transitional movement assessments, the Corrective Exercise Specialist can include these specific loaded movement assessments within the client’s workouts.
   + Loaded squat
   + Standing push
   + Standing pull 
@@ -120,12 +120,14 @@
 
 + Scapular elevation
   Look for the shoulders to move up toward the ears.
+
 + Scapular winging
   Look for the scapulae to protrude excessively from the back, seen most prominently in a push-up position (specifically during the dynamic Davies test or when pushing).
   <img src="9-Movement Assessments.assets/image-20211023064653029.png" alt="image-20211023064653029" style="zoom:50%;" />
 
 + Arms fall forward
   Look for the arms to fall forward to no longer be aligned with the torso and ears.
+
 + Excessive cervical extension (forward head)
   Look for the head to migrate forward, moving the ears out of alignment with the shoulders.
   <img src="9-Movement Assessments.assets/image-20211023064721323.png" alt="image-20211023064721323" style="zoom:50%;" />
@@ -309,3 +311,336 @@ From the *lateral view*, look for the following potential movement impairments:
 From the *posterior view*, look for the following potential movement impairments:
 
 - **Foot and ankle:** Excessive foot pronation
+
+
+
+## Loaded movement Assessment
+
++ Application
+  + customized formal assessment to gain additional information about the client. 
+  + used with clients who refuse, or are unable, to perform the transitional movement assessments.
++ four of the body’s primary movement patterns: squatting, pushing, pulling, and overhead pressing.
+
+### Loaded Squat Assessment
+
++ dynamic posture, core stability, and overall neuromuscular control while under external load. 
+
++ help determine which type of loaded squat a client might be ready to perform during workouts.
+
+#### PROCEDURE
+
+![image-20211024070235916](9-Movement Assessments.assets/image-20211024070235916.png)
+
+**Starting Position**
+
+1. feet hip-to-shoulder-width apart and pointed straight ahead. shoes off 
+2. Choose a resistance that will challenge the client without exhausting them while executing the weight placement (front, back, goblet, etc.) that is desired for exercise programming.
+
+**Movement**
+
+1. thighs parallel to the floor or normal chair height
+2. 15 total repetitions, five reps per view at a 2-0-2 (medium) tempo.
+
+#### OBSERVATION
+
+From the *anterior view*, look for the following potential movement impairments:
+
+- **Foot and ankle:** Feet turn out
+- **Knee:** Valgus or varus
+- **LPHC:** Asymmetric weight shift
+
+From the *lateral view,* look for the following potential movement impairments:
+
+- **Foot and ankle:** Heel rise
+- **Knee:** Knee dominance
+- LPHC:
+  - Excessive anterior pelvic tilt
+  - Excessive posterior pelvic tilt
+  - Excessive forward trunk lean
+
+From the *posterior view*, look for the following potential movement impairments:
+
+- **Foot and ankle:** Excessive foot pronation
+
+### Standing Push Assessment
+
++ performance of a horizontal pushing movement with both arms.
++ observe scapular and shoulder mechanics, upper extremity muscle activation patterns, and the stability of the LPHC and cervical spine and head. 
++ measure the muscle forces produced by the body, biomechanical loads on the spine and joints, and the movement efficiency of the human movement system
++ using a cable machine or resistance band.
+
+#### PROCEDURE
+
+**Starting Position**
+
+1. Instruct the client to stand with the abdomen drawn inward, feet in a split stance, and feet parallel with toes pointing forward.
+2. Have the client hold a handle in each hand.
+
+![image-20211024070757691](9-Movement Assessments.assets/image-20211024070757691.png)
+
+**Movement**
+
+1. Choose a resistance that will challenge the client without exhausting them.
+2. The client will perform 10 repetitions at a 2-0-2 (medium) tempo.
+3. Instruct the client to perform 5 standing push repetitions (chest press).
+4. The client then switches the feet and performs the push again for another 5 repetitions.
+
+If the client is not able to perform a standing push movement in a narrow, split stance, use one of the following modifications:
+
+**Option 1:**  wider split stance. This testing position still assesses the upper extremity and cervical spine and head, but it decreases the challenge to the LPHC and the individual’s balance.
+
+**Option 2:** The client performs the pushing movement seated on an upright chest-press machine.
+
+#### OBSERVATION
+
+From the *lateral view*, look for the following potential movement impairments:
+
+**LPHC:**
+
++ Excessive anterior pelvic tilt
++ Excessive posterior pelvic tilt
++ Trunk rotation
+
+**Shoulder:** 
+
++ Scapular elevation or winging
+
+**Cervical spine and head:** 
+
++ Excessive cervical extension/forward head
+
+### Standing Pull Assessment
+
++ performance of a horizontal pulling motion with both arms. 
++ evaluate scapular and shoulder mechanics, upper extremity muscle activation patterns, and the stability of the LPHC and cervical spine and head. 
++ cable machine or resistance band.
+
+#### PROCEDURE
+
+**Starting Position**
+
+1. Instruct the individual to stand in a narrow, split stance with the toes pointing forward. The client positions the right foot forward and the left foot back.
+2. The client holds a handle in each hand.
+
+![image-20211024071030525](9-Movement Assessments.assets/image-20211024071030525.png)
+
+**Movement**
+
+1. Choose a resistance that will challenge the client without exhausting them.
+2. The client will perform 10 repetitions at a 2-0-2 (medium) tempo.
+3. Instruct the client to perform 5 standing pull (row) repetitions.
+4. The client then alternates the feet and performs the pull again for another 5 repetitions.
+
+If the client is not able to perform a standing pull movement in a narrow split stance, use one of the following modifications:
+
+- **Option 1:**  wider split stance to increase their base of support. 
+- **Option 2:** seated on a forward row machine.
+
+#### OBSERVATION
+
+From the *lateral view*, look for the following potential movement impairments:
+
+**LPHC:**
+
++ Excessive anterior pelvic tilt 
++ Excessive posterior pelvic tilt
++ Trunk rotation
+
+**Shoulder:** 
+
++ Scapular elevation
+
+**Cervical spine and head:**
+
++  Excessive cervical extension/forward head
+
+### Standing Overhead Dumbbell Press Assessment
+
++ vertical pushing movements in their exercise programming. 
++ upper extremity strength and stability of the LPHC, scapula, and cervical spine and head in a manner that is similar to many sports
+
+#### PROCEDURE
+
+![image-20211024071319628](9-Movement Assessments.assets/image-20211024071319628.png)
+
+**Starting Position**
+
+1. Instruct the individual to stand with their feet hip-to-shoulder-width apart and toes pointing forward.
+2. Choose a dumbbell weight that will challenge the client without exhausting them.
+3. The upper extremities should start at 90 degrees of horizontal abduction and 90 degrees
+   of elbow flexion.
+
+**Movement**
+
+1. Instruct the individual to fully abduct the shoulders and extend the arms, pressing the dumbbells together overhead, and return to the starting position.
+2. The client will perform 10 repetitions at a 2-0-2 (medium) tempo.
+
+#### OBSERVATION
+
+From the *lateral view*, look for the following potential movement impairments:
+
+**LPHC:**
+
++ Excessive anterior pelvic tilt
++ Excessive posterior pelvic tilt
+
+**Shoulder**:
+
++ Scapular elevation
++ Arms fall forward
+
+**Cervical spine and head:** 
+
++ Excessive cervical extension/forward head
+
+
+
+# Dynamic Movement Assessments
+
+During the depth jump and Davies test assessments, an emphasis on movement speed and/or performance should be used to encourage dynamic movement from the client.
+
+## Gait Assessment
+
++ real-world scenario
++ clinical applications of gait analysis often involve detailed breakdowns of muscle activation and movement patterns through the multiple phases of a complete gait cycle.
++ Corrective Exercise Specialist is interested in observing if movement compensations seen elsewhere will predictably reveal themselves during normal ambulation
++ not considered a performance test. at a speed that is consistent with their activities of daily living
++ helpful to take video recordings of the client from each viewpoint.
+
+### PROCEDURE
+
+**Starting Position**
+
+1. The individual stands on a treadmill set at a 1-degree incline.
+
+**Movement**
+
+1. Instruct the individual to walk at a comfortable pace.
+
+![image-20211024071930086](9-Movement Assessments.assets/image-20211024071930086.png)
+
+### OBSERVATION
+
+From the *anterior view*, look for the following potential movement impairments:
+
+- **Foot and ankle:** Feet turn out
+- **Knee:** Valgus or varus
+- **LPHC:** Asymmetric weight shift
+
+From the *lateral view*, look for the following potential movement impairments:
+
++ **LPHC:**Excessive anterior pelvic tilt/ Excessive posterior pelvic tilt
+
+From the *posterior view*, look for the following potential movement impairments:
+
+- **Foot and ankle:** Excessive foot pronation
+
+## Depth Jump Assessment
+
++ jumping and landing tasks. 
++ same biomechanical movement pattern as the overhead squat, just progressed into an open chain, dynamic setting
++ predictor of repeat ACL injuries in those who display knee valgus, knee dominance, and hip internal rotation
++ a performance test and a maximal vertical jump should be encouraged in the explanation of the movement.
++ moving fast, take video recordings of the client from each viewpoint. 
++  landing imposes higher load and greater difficulty than jumping. Thus, it may be more beneficial to observe impairments during landing versus jumping.
++ deeper hip and knee flexion angles decrease biomechanical stress on the knee (Tsai et al., 2017), allowing soft tissues, rather than joints, to absorb the forces of landing. 
+  + *stiff landing* by not allowing their hips and knees to bend adequately (e.g., knees < 90 degrees). 
+  + This may be due to issues such as, but not limited to, motor weakness, poor form, or a mobility deficit in the lower kinetic chain. 
+  + *asymmetric contact*, preferentially landing on one leg more than the other. This may also be due to motor weakness, poor form, mobility deficits, or prior injury 
++ client should be allowed one to two practice repetitions of the depth jump assessment before assessing the movement.
+
+### PROCEDURE
+
+**Starting Position**
+
+1. The individual stands on a 12-inch box.
+2. A target line is drawn on the floor 12 inches in front of the box.
+
+**Movement**
+
+1. The individual is instructed to hop off of the box and land with both feet just after the line.
+2. Upon the initial landing, the client should quickly jump up for maximum height.
+3. The client will then land a second time under control.
+4. The number of repetitions may vary for each client depending on their ability to perform under fatigue. **One to three** repetitions per view are recommended as a starting point, following an opportunity to practice the movement after a demonstration.
+
+
+
+![image-20211024072209482](9-Movement Assessments.assets/image-20211024072209482.png)
+
+### OBSERVATION
+
+Anterior
+
+- **Foot and ankle:**
+- Feet turn out
+- Excessive pronation
+- Asymmetric contact/landing
+- **Knee:** Valgus or varus
+- **LPHC:** Asymmetric weight shift
+
+From the *lateral view*, look for the following potential movement impairments:
+
+- **Knee:**
+- Knee dominance
+- Stiff landing
+- **LPHC:**
+- Excessive anterior pelvic tilt
+- Excessive posterior pelvic tilt
+- Excessive forward trunk lean
+
+
+
+## Davies Test
+
++ repetitive, plyometric activity for the upper extremity. upper extremity agility, strength and stabilization, and stability of the trunk and LPHC 
++ after the client can complete the standing push assessment with ease and after ensuring that they can safely begin upper extremity plyometric-style activities. not be suitable for individuals who lack shoulder stability, have current shoulder pain, or lack the functional strength to perform a push-up.
++ a performance test, and a maximal number of repetitions during the 15-second testing period should be encouraged in the explanation of the movement. 
++ Bringing in a third individual to help time and count repetitions of the Davies test can be extremely helpful. This will allow the fitness professional to focus attention on the client’s form and performance while the helper handles the stopwatch and counting tasks.
+
+### PROCEDURE
+
+**Starting Position**
+
+1. Place two pieces of tape on the floor 36 inches (approximately 90 centimeters) apart.
+2. Have the individual assume a push-up position with one hand on each piece of tape.
+
+![image-20211024072852708](9-Movement Assessments.assets/image-20211024072852708.png)
+
+**Movement**
+
+1. Instruct the individual to quickly move the right hand to touch the left hand and then move the left hand to touch the right hand.
+2. The individual’s body weight should shift over the planted hand as they touch it with the floating hand, while maintaining postural control and minimizing unnecessary trunk motion (e.g., excessive rotation).
+3. Perform alternating touching on each side for 15 seconds and record both the number of times a line is touched by both hands and movement impairments observed.
+4. Perform for three trials.
+
+![image-20211024072906809](9-Movement Assessments.assets/image-20211024072906809.png)
+
+### OBSERVATION
+
+From the *lateral view*, look for the following potential movement impairments:
+
+**LPHC:**Excessive anterior pelvic tilt
+
+Excessive posterior pelvic tilt
+
+Excessive trunk movement
+
+**Shoulder:**Scapular elevation Scapular winging
+
+**Cervical spine and head:** Excessive cervical extension/forward head
+
+# Assessment Implementation Options
+
++ primary :  overhead squat.
++ second option to consider is that a comprehensive battery of the assessments covered in this chapter can become a client’s entire first workout. 
++ Third, using movement assessments to build their client base. Offering 30- to 45-minute complimentary assessment sessions that take prospective clients through the assessment process can be a fantastic way to attract new members, sign new clients, and generate revenue.
+
+
+
+# Quiz
+
+![image-20211024073613324](9-Movement Assessments.assets/image-20211024073613324.png)
+
+![image-20211024073626959](9-Movement Assessments.assets/image-20211024073626959.png)
+
+![image-20211024073643778](9-Movement Assessments.assets/image-20211024073643778.png)
