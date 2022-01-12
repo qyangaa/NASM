@@ -1,0 +1,37 @@
+# C1
+
+![image-20220111050006459](Quizzes.assets/image-20220111050006459.png)
+
+![image-20220111050049871](Quizzes.assets/image-20220111050049871-1913819.png)
+
+# C2
+
+![image-20220111070741616](Quizzes.assets/image-20220111070741616.png)
+
+![image-20220111070938743](Quizzes.assets/image-20220111070938743.png)
+
+![image-20220111071125781](Quizzes.assets/image-20220111071125781.png)
+
+![image-20220112050540138](Quizzes.assets/image-20220112050540138.png)
+
+## C3
+
+![image-20220112051951044](Quizzes.assets/image-20220112051951044.png)
+
+![image-20220112052029292](Quizzes.assets/image-20220112052029292.png)
+
+![image-20220112052105245](Quizzes.assets/image-20220112052105245.png)
+
+## C4
+
+![image-20220112053932167](Quizzes.assets/image-20220112053932167.png)
+
+## C5
+
+![image-20220112060343522](Quizzes.assets/image-20220112060343522.png)
+
+![image-20220112060414175](Quizzes.assets/image-20220112060414175.png)
+
+![image-20220112060529250](Quizzes.assets/image-20220112060529250.png)
+
+![image-20220112065120679](Quizzes.assets/image-20220112065120679.png)
